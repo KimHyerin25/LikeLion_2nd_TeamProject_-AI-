@@ -9,3 +9,4 @@
 |이준명| 0718_dacon_parking_demand_practice|기본적인 전처리후 여러모델들 적용|
 |이준명| 0719_dacon_parking_demand_practice2|선형 & 라쏘 & 릿지 적용|
 |이준명| 0720_dacon_parking_demand_data(EDA)|train 데이터 변형후 기본 선형적용|
+|양소연| 210721_baseline.ipynb|LightGBM{'learning_rate': 0.05,'n_estimators': 5000}|
